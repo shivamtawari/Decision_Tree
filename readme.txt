@@ -1,7 +1,4 @@
 ﻿README
-Vishal Narnaware
-vishalnarnaware
-12/25/2019
 
 Decision Tree Program
 
